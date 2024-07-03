@@ -111,7 +111,7 @@ const Footer = (props) => {
           >
             <img src={youTubeIcon} alt="YouTube" className="socialIcon" />
           </a>
-        )}
+        )} 
       </div>
       <p className="small" style={{ marginTop: 0, color: "white" }}>
         Created by {name}

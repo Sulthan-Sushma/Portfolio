@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/pexels-photo-1069798.jpeg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "About Me",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Computer Science Engineering student at Sri Indu College. Passionate developer specializing in web and mobile technologies. Strong problem-solving skills and Logic buliding completing the challenges in time. Always eager to learn and innovate.",
+    //url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Skills",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Proficient in C, Java, Python, HTML, CSS, JavaScript. Experienced with ReactJS, NodeJS, and MySQL. Skilled in Android and React Native development. Version control with Git/GitHub. SQL and Java certified.",
+    //url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Game",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed an interactive web-based game using JavaScript. Implemented game logic, score tracking, and responsive design. Demonstrates proficiency in front-end development and creating engaging user experiences.",
+    url: "https://github.com/Sulthan-Sushma/node-js",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "ReactJS Login Page",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a secure and responsive authentication system using ReactJS. Implemented form validation, error handling, and user-friendly design. Demonstrates proficiency in modern front-end development and UI/UX principles.",
+    url: "https://github.com/Sulthan-Sushma/apps",
   },
 ];
 
